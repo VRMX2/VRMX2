@@ -1,5 +1,12 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/0Jmshvb/github-banner.png" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Grissi Lahcen</h1>
-<h3 align="center">🚀 A Passionate Frontend & Mobile Developer from Algeria</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=🚀+Frontend+Developer;📱+Mobile+Developer;🌍+From+Algeria;💡+Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
+</h3>
 
 ---
 
@@ -12,12 +19,18 @@
 ---
 
 ### 🌐 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/lahcen-grissi-24740a2a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="https://web.facebook.com/lehcen.gr.9/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+  </a>
+  <a href="mailto:grissi.lahcen.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  <a href="https://github.com/vrmx2" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
 </p>
 
@@ -25,32 +38,33 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,flutter,java,spring,nodejs,python,tailwind" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrmx2&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrmx2&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vrmx2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrmx2&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vrmx2&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vrmx2&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-✨ *Feel free to check out my repositories and connect with me!*  
+### 🚀 Featured Projects  
+<p align="center">
+  <a href="https://github.com/vrmx2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmx2&repo=chat_app&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/vrmx2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrmx2&repo=medical_system&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+✨ *Thanks for visiting! Feel free to check out my repositories and connect with me!*  
