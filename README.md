@@ -13,10 +13,10 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/lahcen-grissi" target="_blank">
+  <a href="https://www.linkedin.com/in/lahcen-grissi-24740a2a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/grissi.lahcen" target="_blank">
+  <a href="https://web.facebook.com/lehcen.gr.9/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
